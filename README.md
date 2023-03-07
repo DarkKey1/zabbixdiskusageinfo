@@ -3,7 +3,9 @@
 Page to display disks usage info of machines monitored by Zabbix
 
 
-
+# Requirements: 
+PHP 7.4+ 
+PHP-CURL
 
 
 # TODO: 
