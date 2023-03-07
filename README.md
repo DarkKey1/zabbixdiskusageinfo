@@ -9,7 +9,7 @@ Page to display disks usage info of machines monitored by Zabbix
 # TODO: 
  - [ ] Optimize code/ use filters to speed up searching for storage
  - [ ] Fix bug when arrays can have different amount of values (arrays can shift and display wrong data) if someone deletes item from zabbix
- - [ ] Beautify the look
+ - [ ] Beautify the appearance
  - [ ] Add error handling
  - [ ] Clean code
  
